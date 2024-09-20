@@ -481,5 +481,35 @@ strong {
 .footer-backlink {
   color: #bc9b6f;
 }
+@media(max-width:768px){
+  html{
+    font-size: 50%;
+  }
+  .todays-hours {
+   
+    font-size: 1rem;
+   
+  }
+  .hours-large {
+  
+    font-size: 1.5rem;
+   
+  }
+  .nav-link{
+    font-size: 0.6rem;
+  }
+  .nav-left{
+    
+    margin-right: 0;
+  
+}
+.w-nav-brand {
+  
+  
+  font-size: 1rem;
+  left:15rem;
+ 
+}
+}
   
  
